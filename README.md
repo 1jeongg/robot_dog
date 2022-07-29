@@ -8,5 +8,8 @@ Arduino_term_project / 남원정, 최길튼(은행나무)
 
 간단 설명: 더블탭, 무게, 밝기 등을 감지하여 사용자의 행위에 따라 강아지 인형의 표정이 바뀌고 귀가 움직이는 등의 반응을 통해
           사람과 상호작용할 수 있는 반려 로봇
+          
 작동 링크: https://photos.app.goo.gl/6NSKQ8W1oEWnH2J58
-![IMG_1766](https://user-images.githubusercontent.com/84652886/181711040-1ecc8879-06da-44c8-8f83-1072a46109e6.jpg)
+
+
+<img src="https://user-images.githubusercontent.com/84652886/181711040-1ecc8879-06da-44c8-8f83-1072a46109e6.jpg" width="200" height="400"/
