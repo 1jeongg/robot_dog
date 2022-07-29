@@ -11,5 +11,4 @@ Arduino_term_project / 남원정, 최길튼(은행나무)
           
 작동 링크: https://photos.app.goo.gl/6NSKQ8W1oEWnH2J58
 
-
-<img src="https://user-images.githubusercontent.com/84652886/181711040-1ecc8879-06da-44c8-8f83-1072a46109e6.jpg" width="200" height="400"/
+![IMG_1766](https://user-images.githubusercontent.com/84652886/181711280-7d6519d4-3021-4c69-8e9a-e2583c42a5d7.jpg)
